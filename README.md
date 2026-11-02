@@ -203,5 +203,4 @@ web/src/routes/                `/` and `/homes/$homeId`
 ```
 
 ## AI assistance
-
-Fill in before submitting: which AI tools you used, and which parts you changed or wrote yourself.
+CLAUDE , TOOK HELP IN TYPESCRIPT CODE PART.
